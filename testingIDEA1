@@ -1,0 +1,7 @@
+public class testingIDEA1 {
+    public static void main(String[] args) {
+        for (int i = 1; i <=1000; i++) {
+            System.out.println("THIS MY FIRST CODE JAVA IN INTELIJ IDEA");
+        }
+    }
+}
